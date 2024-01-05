@@ -1,0 +1,64 @@
+[
+      {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correct_answer": "Paris"
+      },
+      {
+        "id": 2,
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "correct_answer": "Mars"
+      },
+      {
+        "id": 3,
+        "question": "What is the largest mammal?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+        "correct_answer": "Blue Whale"
+      },
+      {
+        "id": 4,
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Emily Brontë"],
+        "correct_answer": "William Shakespeare"
+      },
+      {
+        "id": 5,
+        "question": "Which programming language is known for its readability and simplicity?",
+        "options": ["Java", "Python", "C++", "JavaScript"],
+        "correct_answer": "Python"
+      },
+      {
+        "id": 6,
+        "question": "What is the currency of Japan?",
+        "options": ["Yen", "Won", "Ringgit", "Baht"],
+        "correct_answer": "Yen"
+      },
+      {
+        "id": 7,
+        "question": "Which ocean is the largest?",
+        "options": ["Indian Ocean", "Atlantic Ocean", "Southern Ocean", "Pacific Ocean"],
+        "correct_answer": "Pacific Ocean"
+      },
+      {
+        "id": 8,
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+        "correct_answer": "Leonardo da Vinci"
+      },
+      {
+        "id": 9,
+        "question": "What is the capital of Australia?",
+        "options": ["Canberra", "Sydney", "Melbourne", "Perth"],
+        "correct_answer": "Canberra"
+      },
+      {
+        "id": 10,
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "correct_answer": "Carbon Dioxide"
+      }
+    ]
+  
+  
